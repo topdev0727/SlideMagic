@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  SlideMagic
+
+  Created by RX on 4/6/19.
+  Copyright © 2019 JZ. All rights reserved.
+*/
+"CFBundleDisplayName" = "滑り台魔法";
+"NSAppleMusicUsageDescription" = "このアプリは、アップルミュージックへのアクセスが必要です";
+"NSCameraUsageDescription" = "このアプリはカメラへのアクセスが必要です";
+"NSPhotoLibraryUsageDescription" = "このアプリはフォトライブラリへのアクセスが必要です";

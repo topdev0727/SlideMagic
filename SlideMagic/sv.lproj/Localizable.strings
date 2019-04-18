@@ -1,0 +1,41 @@
+/* 
+  Localizable.strings
+  SlideMagic
+
+  Created by RX on 4/6/19.
+  Copyright © 2019 JZ. All rights reserved.
+*/
+
+"No Music" = "Ingen musik";
+"Length" = "Längd";
+"Message" = "Meddelande";
+"Please import photos" = "Vänligen importera foton";
+"Music Access Denied" = "Musikåtkomst nekad";
+"Do you want to change this in Settings?" = "Vill du ändra detta i Inställningar?";
+"Cancel" = "Annullera";
+"Authorize" = "Godkänna";
+"Noir" = "Noir";
+"Bloom" = "Blomma";
+"Process" = "Bearbeta";
+"Pixellate" = "pixelerad";
+"Instant" = "Omedelbar";
+"ToneCurve" = "ToneCurve";
+"Vibrance" = "Vibrance";
+"Fade" = "Blekna";
+"Transfer" = "Överföra";
+"Mono" = "bara";
+"Vignette" = "Vinjett";
+"None" = "Ingen";
+"OFF" = "AV";
+"ON" = "PÅ";
+"AUTO" = "BIL";
+"PHOTOS" = "BILDER";
+"VIDEOS" = "VIDEOKLIPP";
+"CAMERA" = "KAMERA";
+"Done" = "Gjort";
+"Please grant access to photos and the camera." = "Vänligen ge tillgång till bilder och kameran.";
+"Please grant access to photos." = "Vänligen ge tillgång till bilder.";
+"Go to Settings" = "Gå till Inställningar";
+"Nothing to show" = "Inget att visa";
+"ALL VIDEOS" = "ALLA VIDEOR";
+"FIRST %d SECONDS" = "FIRST %d SECONDS";

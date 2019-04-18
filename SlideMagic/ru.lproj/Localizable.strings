@@ -1,0 +1,41 @@
+/* 
+  Localizable.strings
+  SlideMagic
+
+  Created by RX on 4/6/19.
+  Copyright © 2019 JZ. All rights reserved.
+*/
+
+"No Music" = "Нет музыки";
+"Length" = "длина";
+"Message" = "Сообщение";
+"Please import photos" = "Пожалуйста, импортируйте фотографии";
+"Music Access Denied" = "Доступ к музыке запрещен";
+"Do you want to change this in Settings?" = "Вы хотите изменить это в настройках?";
+"Cancel" = "отменить";
+"Authorize" = "санкционировать";
+"Noir" = "Noir";
+"Bloom" = "Цветение";
+"Process" = "Процесс";
+"Pixellate" = "Pixellate";
+"Instant" = "Мгновенный";
+"ToneCurve" = "ToneCurve";
+"Vibrance" = "вибрация";
+"Fade" = "увядать";
+"Transfer" = "Перечислить";
+"Mono" = "только";
+"Vignette" = "Виньетка";
+"None" = "Никто";
+"OFF" = "ОТ";
+"ON" = "НА";
+"AUTO" = "АВТО";
+"PHOTOS" = "ФОТО";
+"VIDEOS" = "ВИДЕО";
+"CAMERA" = "КАМЕРЫ";
+"Done" = "Готово";
+"Please grant access to photos and the camera." = "Пожалуйста, предоставьте доступ к фотографиям и камере.";
+"Please grant access to photos." = "Пожалуйста, предоставьте доступ к фотографиям.";
+"Go to Settings" = "Перейдите в настройки";
+"Nothing to show" = "Нечего показать";
+"ALL VIDEOS" = "ВСЕ ВИДЕО";
+"FIRST %d SECONDS" = "ПЕРВЫЕ %d СЕКУНД";

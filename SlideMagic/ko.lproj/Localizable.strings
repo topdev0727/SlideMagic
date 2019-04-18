@@ -1,0 +1,41 @@
+/* 
+  Localizable.strings
+  SlideMagic
+
+  Created by RX on 4/6/19.
+  Copyright © 2019 JZ. All rights reserved.
+*/
+
+"No Music" = "음악 없음";
+"Length" = "길이";
+"Message" = "메시지";
+"Please import photos" = "사진을 가져 오십시오.";
+"Music Access Denied" = "음악 액세스가 거부되었습니다.";
+"Do you want to change this in Settings?" = "설정에서이 값을 변경 하시겠습니까?";
+"Cancel" = "취소";
+"Authorize" = "권한부여";
+"Noir" = "노이어";
+"Bloom" = "개화";
+"Process" = "복사";
+"Pixellate" = "픽셀";
+"Instant" = "즉시";
+"ToneCurve" = "톤 커브";
+"Vibrance" = "활기";
+"Fade" = "색바램";
+"Transfer" = "전사";
+"Mono" = "모노";
+"Vignette" = "소품";
+"None" = "없음";
+"OFF" = "끄기";
+"ON" = "켜기";
+"AUTO" = "자동";
+"PHOTOS" = "사진들";
+"VIDEOS" = "비디오";
+"CAMERA" = "카메라";
+"Done" = "완료";
+"Please grant access to photos and the camera." = "사진들과 카메라에 대한 액세스 권한을 부여하십시오.";
+"Please grant access to photos." = "사진들에 대한 액세스 권한을 부여하십시오.";
+"Go to Settings" = "설정으로 가기";
+"Nothing to show" = "보여줄 것이 없음";
+"ALL VIDEOS" = "모든 동영상";
+"FIRST %d SECONDS" = "첫 %d 초";

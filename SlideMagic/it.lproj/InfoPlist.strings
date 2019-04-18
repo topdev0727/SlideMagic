@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  SlideMagic
+
+  Created by RX on 4/6/19.
+  Copyright © 2019 JZ. All rights reserved.
+*/
+"CFBundleDisplayName" = "SlideMagic";
+"NSAppleMusicUsageDescription" = "This app requires access to apple music";
+"NSCameraUsageDescription" = "This app requires access to camera";
+"NSPhotoLibraryUsageDescription" = "This app requires access to photo library";
